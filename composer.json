@@ -1,7 +1,7 @@
 {
   "name":"AlbyFernandez/megentotest",
   "type":"magento-module",
-  "license":"local",
+  "license":"OSL-3.0",
   "homepage":"localhost",
   "description":"Magento extension",
   "require":{

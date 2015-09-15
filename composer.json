@@ -1,11 +1,10 @@
 {
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "http://packages.firegento.com"
-        }
-    ],
-    "extra":{
-        "magento-root-dir": "htdocs/"
-    }
+  "name":"AlbyFernandez/megentotest",
+  "type":"magento-module",
+  "license":"local",
+  "homepage":"localhost",
+  "description":"Magento extension",
+  "require":{
+    "magento-hackathon/magento-composer-installer":"*"
+  }
 }

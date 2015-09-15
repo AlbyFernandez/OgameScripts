@@ -1,0 +1,7 @@
+{
+  "name":"AlbyFernandez/megentotest",
+  "type":"magento-module",
+  "license":"OSL-3.0",
+  "homepage":"localhost",
+  "description":"Magento extension"
+}

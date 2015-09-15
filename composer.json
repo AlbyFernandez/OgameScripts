@@ -6,8 +6,5 @@
   "description":"Magento extension",
   "require":{
     "magento-hackathon/magento-composer-installer":"*"
-  },
-  "extra": {
-        "package-xml": "modman"
-    }
+  }
 }

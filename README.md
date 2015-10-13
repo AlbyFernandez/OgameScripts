@@ -1,1 +1,2 @@
-# megentotest 1
+# OgameSelectAllOnCC
+

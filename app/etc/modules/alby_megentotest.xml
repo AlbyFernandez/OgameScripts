@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<config>
-    <modules>
-        <alby_megentotest>
-            <active>true</active>
-            <codePool>community</codePool>
-        </alby_megentotest>
-    </modules>
-</config>

@@ -1,2 +1,1 @@
-# OgameSelectAllOnCC
-
+OgameScripts

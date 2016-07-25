@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        ogame retro ranking
-// @namespace   ogame retro ranking
+// @name        ogame retro ranking in galaxy
+// @namespace   ogame retro ranking in galaxy
 // @include     http://ogame1304.de/game/index.php*
 // @version     1
 // @grant          GM_getValue

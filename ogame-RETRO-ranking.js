@@ -7,6 +7,7 @@
 // @grant          GM_setValue
 // @grant          GM_xmlhttpRequest
 // @require http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
+// @author       AlbyFernandez
 // ==/UserScript==
 
 
